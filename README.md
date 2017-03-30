@@ -1,15 +1,18 @@
-Erick Sauri
 # BirdAttack
-Asteroids with an avian flu
+## Processing
+### Spring 2015
+![Bird Attack Screenshot](https://people.rit.edu/ejs3863/oldportfolio2/birdattack/media/birdattack.png "Bird Attack")
 
-List of user functionality:
-Click certain buttons which takes him to a different scene
-Accelerate using the UP arrow key, ‘w’, or ‘W’
-Rotate left using the LEFT arrow key, ‘a’, or ‘A’
-Rotate right using the RIGHT arrow key, ‘d’, or ‘D’
-Shoot fireballs using the SPACEBAR
+#### Asteroids with an avian flu
 
-Reasoning behind design choices:
+##### List of user functionality:
+* Click certain buttons which takes him to a different scene
+* Accelerate using the UP arrow key, ‘w’, or ‘W’
+* Rotate left using the LEFT arrow key, ‘a’, or ‘A’
+* Rotate right using the RIGHT arrow key, ‘d’, or ‘D’
+* Shoot fireballs using the SPACEBAR
+
+##### Reasoning behind design choices:
 
 I decided to make this Asteroids remake a little different from usual, though keeping the same basic functionality. For the Start scene I simply added the title and a button which changes its fill when hovered over to give some response to the user. In the Game Over scene I added a “You Lose!”, the user’s score during that time and a button to play again. Same as with the previous one this one also has a hover effect. In both these scenes I added random mutant birds to fly around. 
 
